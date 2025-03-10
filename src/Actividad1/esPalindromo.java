@@ -1,5 +1,9 @@
 package Actividad1;
-
+//
+//Jose Ángel Marrero Paula
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
 public class esPalindromo {
 	public static boolean validPalindrome(String s) {
 	       for (int i = 0, j = s.length() - 1; i < j; i++, j--) {
